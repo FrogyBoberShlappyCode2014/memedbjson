@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Квакаючий Жабобобер",
+    "image_url": "https://web.archive.org/web/20040608022839im_/http://www.geocities.com/clipartzone/graphics/animated/frogs/frog_sings.gif",
+    "description": "Класичний мем, що передає дух Жабобоброфедерації. КВА-КВА!",
+    "tags": ["жаба", "бобер", "ква-ква", "ретро"],
+    "date_added": "2025-07-24"
+  },
+  {
+    "id": 2,
+    "title": "Танцюючий Пельмень",
+    "image_url": "https://i.imgur.com/some_dancing_pelmen.gif",
+    "description": "Найкращий гастрономічний мем. Нічого не зрозуміло, але дуже смішно.",
+    "tags": ["пельмень", "танець", "їжа", "абсурд"],
+    "date_added": "2025-07-23"
+  },
+  {
+    "id": 3,
+    "title": "Розробник-Хом'як в Колесі",
+    "image_url": "https://web.archive.org/web/20040608022839im_/http://www.geocities.com/clipartzone/graphics/animated/hamsters/hamster_wheel.gif",
+    "description": "Вічне прагнення до кодування, яке ніколи не закінчується. Або просто біг по колу.",
+    "tags": ["хом'як", "колесо", "розробник", "життя"],
+    "date_added": "2025-07-22"
+  }
+]
